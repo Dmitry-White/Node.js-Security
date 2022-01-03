@@ -17,3 +17,16 @@ https://shapeshed.com/hacking-apis-with-node.js/
 
 ## [Nodejs] Security: Command Injection
 https://hackernoon.com/nodejs-security-issue-javascript-node-example-tutorial-vulnerabilities-hack-line-url-command-injection-412011924d1b
+
+## Implement
+
+- URL manipulation and insecure direct object reference (IDOR)
+- SQL injection
+- Cross-site scripting (XSS)
+- Cross-site request forgery (CSRF)
+- Cookie visibility and theft
+- Session hijacking
+- Session fixation
+- Remote code execution
+- File upload abuse
+- Denial of service
