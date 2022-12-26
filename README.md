@@ -18,6 +18,11 @@ https://shapeshed.com/hacking-apis-with-node.js/
 ## [Nodejs] Security: Command Injection
 https://hackernoon.com/nodejs-security-issue-javascript-node-example-tutorial-vulnerabilities-hack-line-url-command-injection-412011924d1b
 
+## Webshell
+https://s1gnalcha0s.github.io/node/2015/01/31/SSJS-webshell-injection.html
+https://gist.github.com/khakimov/5130151
+https://www.cobalt.io/blog/common-vulnerabilities-in-nodejs-applications
+
 ## Implement
 
 - URL manipulation and insecure direct object reference (IDOR)
